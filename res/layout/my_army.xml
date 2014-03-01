@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff2B2B2B"
+    android:fadingEdge="horizontal"
+    android:hapticFeedbackEnabled="false"
+    android:overScrollMode="always" >
+
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/left_drawer"
+        android:layout_width="280.00dip"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left|start"
+        android:background="#FF2D2D2D"
+        android:cacheColorHint="@color/translucent_separator_line"
+        android:choiceMode="singleChoice"
+        android:divider="@drawable/list_divider"
+        android:dividerHeight="1.00dip"
+        android:duplicateParentState="true"
+        android:fitsSystemWindows="true"
+        android:listSelector="#26e4e4e4"
+        android:longClickable="false"
+        android:orientation="vertical"
+        android:overScrollMode="never"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:scrollbars="none"
+        android:scrollingCache="true" />
+
+</android.support.v4.widget.DrawerLayout>

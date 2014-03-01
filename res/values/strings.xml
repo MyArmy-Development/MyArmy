@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyArmy</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="MenuDrawerStuff">
+        <item>Welcome</item>
+        <item>Add Soldier</item>
+        <item>Duty Roster</item>
+        <item>Upcoming</item>
+        <item>Vehicles</item>
+        <item>To-Do</item>
+        <item>Phone Roster</item>
+        <item>Common Sense</item>
+    </string-array>
+
+</resources>

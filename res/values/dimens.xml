@@ -1,0 +1,50 @@
+<resources>
+
+    <dimen name="default_padding">16.0dip</dimen>
+    <dimen name="nav_drawer_entry_height">64.0dip</dimen>
+    <dimen name="setting_border_padding_left_right">16.0dip</dimen>
+    <dimen name="abs__action_bar_default_height">48.0dip</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="gf_list_item_padding">12.0dip</dimen>
+    <dimen name="gf_list_item_height">60.0dip</dimen>
+    <dimen name="card_thumbnail_large">90dp</dimen>
+    <dimen name="card_title_large">24sp</dimen>
+    <dimen name="card_content_large">19sp</dimen>
+
+        <dimen name="sticky_height">120dp</dimen>
+    <dimen name="gravatar_image_padding">4dip</dimen>
+    <dimen name="standard_padding">8dip</dimen>
+    <dimen name="extra_padding">16dip</dimen>
+    <dimen name="default_left_card_start">5dip</dimen>
+    <dimen name="reviewer_padding_top">2dip</dimen>
+    <dimen name="reviewer_padding_left_indent">15dip</dimen>
+    <dimen name="diff_view_padding_top">12dip</dimen>
+    <dimen name="goo_im_download_rom_ic_padding">12dip</dimen>
+    <dimen name="checkable_view_padding">6dp</dimen>
+    <dimen name="changelog_padding_horiz">12dp</dimen>
+    <dimen name="card_stroke_width">6dp</dimen>
+    <dimen name="commit_card_stroke_padding">2dp</dimen>
+    <dimen name="prop_label_padding_left">8dip</dimen>
+    <dimen name="project_row_padding">2dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_extra_micro">10.0sp</dimen>
+    <dimen name="text_size_micro">12.0sp</dimen>
+    <dimen name="text_size_small">14.0sp</dimen>
+    <dimen name="text_size_medium">16.0sp</dimen>
+    <dimen name="text_size_large">18.0sp</dimen>
+    <dimen name="text_size_larger">20.0sp</dimen>
+    <dimen name="text_size_x_large">24.0sp</dimen>
+    <dimen name="text_size_dayum">36.0sp</dimen>
+
+    <!-- Cards list sizes -->
+    <dimen name="cards_list_padding_vert">8dp</dimen>
+    <dimen name="cards_list_padding_horiz">12dp</dimen>
+    <dimen name="cards_list_divider_height">8.0dp</dimen>
+    <dimen name="changelog_padding_vert">8dp</dimen>
+    <dimen name="card_subitem_indent">@dimen/standard_padding</dimen>
+    
+    <dimen name="vc_view_height">172dp</dimen>
+    <dimen name="vc_view_margin">16dp</dimen>
+</resources>
